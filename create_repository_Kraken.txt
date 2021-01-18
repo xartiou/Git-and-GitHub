@@ -1,4 +1,8 @@
 Open a repo - открыть существующий
+	create file 
+	  создаем имя + enter
+	    вносим содержимое + stage + save and stage
+	      commit massege + commit changes	  	
 Clone e repo - склонировать с удаленного
 Start a local repo - создать локальный Кракеном
 	init
