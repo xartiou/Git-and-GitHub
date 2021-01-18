@@ -22,4 +22,5 @@
                              -git commit -am '....'
 
 сохранять пустые директории   .gitkeep
+                               touch <имя>/.gitkeep
 игнорировать некоторые файлы  .gitignore
