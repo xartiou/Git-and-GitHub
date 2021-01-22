@@ -1,0 +1,9 @@
+1. находим репозиторий на GitHub 
+2. нажимаем кнопку FORK которая переводит нас на наш аккаунт
+3. заходим в GitKraken
+4. CLONE => GitHub + Clone a Repo + Repository to clone => Clone the repo!
+5. Succesfule clone => Open repo
+6. создаем новую ветку от последнего commit 
+	редактируем или добавляем и создаем свой commit
+7. заходим на GitHub и создаем Pull request.
+	после создания Pull request он находится на оригинальном репозитории
